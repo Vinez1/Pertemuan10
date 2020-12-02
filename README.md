@@ -118,7 +118,7 @@ print('=======Ubah Data Mahasiswa=======')
 
 5.) Tambahkan inputan Fungsi Tampilkan 
 
-
+```
 elif c.lower() == 'l':
  print("=======Daftar Nilai Mahasiswa=======")
         print("================================================================================================")
@@ -132,7 +132,7 @@ elif c.lower() == 'l':
                                                                                                 x[1][2], x[1][3],
                                                                                                 x[1][4], i))
             print("============================================================================================")
-
+```
 
 6.) TAmbahkan inputan Fungsi Hapus 
 
