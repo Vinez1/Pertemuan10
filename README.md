@@ -101,7 +101,7 @@ print("=======Tambah Data=======")
 
 4.) Tambahkan inputan Fungsi  Ubah 
 
-
+```
 elif c.lower() == 'u':
 print('=======Ubah Data Mahasiswa=======')
         nama = input('Nama                :  ')
@@ -114,7 +114,7 @@ print('=======Ubah Data Mahasiswa=======')
             data[nama] = nim, tugas, uts, uas, akhir
         else:
             print("Data Nilai Tidak Ada".format(nama))
-
+```
 
 5.) Tambahkan inputan Fungsi Tampilkan 
 
