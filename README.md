@@ -10,11 +10,9 @@
 
 Pada tugas praktikum ke 6 ini, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
-Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
-
 # Berikut inputannya 
 
-
+```
 from data import data
 
 
@@ -70,7 +68,7 @@ while True:
     elif c.lower() == 'k':
         print("Keluar")
         break
-
+```
 
 Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
