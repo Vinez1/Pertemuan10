@@ -87,7 +87,7 @@ while True:
 
 3.) Berikutnya tambahkan inputan  Fungsi Tambahkan
 
-
+```
 if c.lower() == 't':
 print("=======Tambah Data=======")
         nama = input("Nama                :  ")
@@ -97,7 +97,7 @@ print("=======Tambah Data=======")
         uas = int(input("Masukan Nilai UAS   :  "))
         akhir = (0.30 * tugas) + (0.35 * uts) + (0.35 * uas)
         data[nama] = nim, tugas, uts, uas, akhir
-
+```
 
 4.) Tambahkan inputan Fungsi  Ubah 
 
