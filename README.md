@@ -160,6 +160,6 @@ Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
 Hasil Flowchart seperti berikut ini :
 
-![Flowchart](Foto/
+![Flowchart](Foto/flowchart.png)
 
 # TERIMA KASIH
