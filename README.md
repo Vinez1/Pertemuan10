@@ -156,7 +156,7 @@ print("Keluar")
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
-![hasill](Foto/
+![hasill](Foto/hasill.png)
 
 Hasil Flowchart seperti berikut ini :
 
