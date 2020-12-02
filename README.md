@@ -134,9 +134,9 @@ elif c.lower() == 'l':
             print("============================================================================================")
 ```
 
-6.) TAmbahkan inputan Fungsi Hapus 
+6.) Tambahkan inputan Fungsi Hapus 
 
-
+```
 elif c.lower() == 'h':
 print("=======Hapus Data Mahasiswa=======")
         nama = input("Nama :  ")
@@ -144,15 +144,15 @@ print("=======Hapus Data Mahasiswa=======")
             del data[nama]
         else:
             print("Data Nilai Tidak Ada".format(nama))
-
+```
 
 7.) Tambahkan inputan Fungsi Keluar
 
-
+```
 elif c.lower() == 'k':
 print("Keluar")
         break
-
+```
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
