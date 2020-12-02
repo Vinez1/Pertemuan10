@@ -74,9 +74,9 @@ Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
 1.) Langkah Pertama Yang Harus Lakukan Adalah kita membuat variable list kosong.
 
-
+```
 from data import data
-
+```
 
 2.) Setelah itu kita membuat kondisi perulangan dan statement yang akan dijalankan ketika perulangan terjadi. Dan Ini inputannya
  
