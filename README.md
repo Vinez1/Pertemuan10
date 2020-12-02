@@ -15,8 +15,6 @@ Pada tugas praktikum ke 6 ini, saya diminta untuk membuat sebuah program menamba
 ```
 from data import data
 
-
-
 print("PROGRAM MENAMPILKAN DAFATR NILAI MAHASISWA")
 while True:
     print("")
@@ -80,12 +78,12 @@ from data import data
 
 2.) Setelah itu kita membuat kondisi perulangan dan statement yang akan dijalankan ketika perulangan terjadi. Dan Ini inputannya
  
-
+```
 print("PROGRAM MENAMPILKAN DAFATR NILAI MAHASISWA")
 while True:
     print("")
     c =input("(L)lihat, (T)ambah, (U)bah, (H)apus, (K)eluar : ")
-
+```
 
 3.) Berikutnya tambahkan inputan  Fungsi Tambahkan
 

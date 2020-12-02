@@ -1,6 +1,5 @@
 from data import data
 
-
 print("PROGRAM MENAMPILKAN DAFATR NILAI MAHASISWA")
 while True:
     print("")
